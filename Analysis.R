@@ -1,3 +1,8 @@
+# Script Name: Analysis.R
+# R course for beginners, Tel Aviv University
+# Author: Itamar Ben Arie
+# Date: 2025-01-07
+
 # Data Frame
 N <- 30
 df <- data.frame(                                                      

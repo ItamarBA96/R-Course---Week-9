@@ -1,3 +1,8 @@
+# Script Name: Functions.R
+# R course for beginners, Tel Aviv University
+# Author: Itamar Ben Arie
+# Date: 2025-01-07
+
 # Function to calculate descriptive statistics with conditions at the end
 generate_descriptive_stats <- function(data, 
                                        subject_start = min(data$participant_id), 
